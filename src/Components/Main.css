@@ -51,7 +51,7 @@
   vertical-align: top;
   white-space: nowrap;
 
-  margin: 8px;
+  margin-top: 12px;
 }
 
 .button-65:hover {
@@ -76,3 +76,23 @@
   opacity: 1;
 }
 
+
+
+.formContainer{
+  display: flex;
+  min-height: auto;
+  margin: 8px;
+  padding: 8px;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.formInput{
+  margin-left: 8px;
+  border-radius: 5px;
+  border-width: 0px;
+
+  
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diplomIshiReactApp/static/css/main.e796812b.css",
+    "main.js": "/diplomIshiReactApp/static/js/main.aae58840.js",
+    "index.html": "/diplomIshiReactApp/index.html",
+    "main.e796812b.css.map": "/diplomIshiReactApp/static/css/main.e796812b.css.map",
+    "main.aae58840.js.map": "/diplomIshiReactApp/static/js/main.aae58840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e796812b.css",
+    "static/js/main.aae58840.js"
+  ]
+}

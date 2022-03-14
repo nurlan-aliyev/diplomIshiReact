@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/diplomIshiReactApp/static/css/main.e796812b.css",
-    "main.js": "/diplomIshiReactApp/static/js/main.aae58840.js",
-    "index.html": "/diplomIshiReactApp/index.html",
-    "main.e796812b.css.map": "/diplomIshiReactApp/static/css/main.e796812b.css.map",
-    "main.aae58840.js.map": "/diplomIshiReactApp/static/js/main.aae58840.js.map"
+    "main.css": "/diplomIshiReact/static/css/main.e796812b.css",
+    "main.js": "/diplomIshiReact/static/js/main.aae58840.js",
+    "index.html": "/diplomIshiReact/index.html",
+    "main.e796812b.css.map": "/diplomIshiReact/static/css/main.e796812b.css.map",
+    "main.aae58840.js.map": "/diplomIshiReact/static/js/main.aae58840.js.map"
   },
   "entrypoints": [
     "static/css/main.e796812b.css",

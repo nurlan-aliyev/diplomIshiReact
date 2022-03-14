@@ -19,6 +19,8 @@ import { EyriHesab } from './EyriHesab';
                     <button className='button-65' onClick={() => {setPageName("YolDereceHesab")}}>Yolun dərəcəsinin təyini</button>
                     <button className='button-65' onClick={() => {setPageName("EyriHesab")}}>Əyri hesabatı</button>
                 </div>
+
+                <p style={{fontSize:"12px", alignSelf:"flex-end", marginRight:"16px"}}><em>Müəllif: <strong>Nurlan Əliyev</strong></em></p>
             </div>
             );
     } else if (pageName === "YolDereceHesab"){
